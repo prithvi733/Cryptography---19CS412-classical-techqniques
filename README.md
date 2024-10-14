@@ -518,7 +518,9 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/0b642f8e-af77-4ced-b73b-3593b2bd56e7)
+
+![Screenshot 2024-10-14 153259](https://github.com/user-attachments/assets/3733f72e-48d7-4bbc-aae0-22bbed6a7375)
+
 
 ## RESULT:
 The program is executed successfully
